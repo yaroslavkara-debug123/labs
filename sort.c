@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Функция сортировки массива методом пузырька по возрастанию
+
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
     for (i = 0; i < n-1; i++) {
