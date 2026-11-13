@@ -1,4 +1,4 @@
-#include <stdio.h> // Стандартная библиотека ввода-вывода
+#include <stdio.h>
 
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
